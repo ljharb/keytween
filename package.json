@@ -1,0 +1,31 @@
+{
+	"name": "keytween",
+	"version": "0.0.0",
+	"description": "Encode and decode a string using the \"look between X and Y on your keyboard\" meme format",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/keytween.git"
+	},
+	"keywords": [
+		"keyboard",
+		"between",
+		"look",
+		"meme",
+		"encode",
+		"decode"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/keytween/issues"
+	},
+	"homepage": "https://github.com/ljharb/keytween#readme"
+}
