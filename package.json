@@ -1,6 +1,6 @@
 {
 	"name": "keytween",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Encode and decode a string using the \"look between X and Y on your keyboard\" meme format",
 	"bin": "./bin.mjs",
 	"main": false,
