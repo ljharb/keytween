@@ -1,0 +1,22 @@
+{
+    "english": [
+        { "decoded": "123abc", "encoded": [["`", "4"], ["{lock}", "s"], ["v", "n"], ["x", "v"]] },
+        { "decoded": "abc", "encoded": [["{lock}", "s"], ["v", "n"], ["x", "v"]] },
+        { "decoded": "def", "encoded": [["s", "f"], ["w", "r"], ["d", "g"]] },
+        { "decoded": "yui", "encoded": [["t", "o"]] },
+        { "decoded": "qwerty", "encoded": [["{tab}", "u"]] },
+        { "decoded": "hello", "encoded": [["g", "j"], ["w", "r"], ["k", ";"], ["k", ";"], ["i", "p"]] },
+        { "decoded": "the", "encoded": [["r", "y"], ["g", "j"], ["w", "r"]] },
+        { "decoded": "quick", "encoded": [["{tab}", "w"], ["y", "o"], ["x", "v"], ["j", "l"]] },
+        { "decoded": "brown", "encoded": [["v", "n"], ["e", "t"], ["i", "p"], ["q", "e"], ["b", "m"]] },
+        { "decoded": "fox", "encoded": [["d", "g"], ["i", "p"], ["z", "c"]] },
+        { "decoded": "jumped", "encoded": [["h", "k"], ["y", "i"], ["n", ","], ["o", "["], ["w", "r"], ["s", "f"]] },
+        { "decoded": "over", "encoded": [["i", "p"], ["c", "b"], ["w", "t"]] },
+        { "decoded": "lazy", "encoded": [["k", ";"], ["{lock}", "s"], ["{shift}", "x"], ["t", "u"]] },
+        { "decoded": "dog", "encoded": [["s", "f"], ["i", "p"], ["f", "h"]] },
+        { "decoded": "mañana", "encoded": [["n", ","], ["{lock}", "s"], "ñ", ["{lock}", "s"], ["b", "m"], ["{lock}", "s"]] }
+    ],
+    "spanish": [
+        { "decoded": "mañana", "encoded": [["n", ","], ["{lock}", "s"], ["l", "{"], ["{lock}", "s"], ["b", "m"], ["{lock}", "s"]] }
+    ]
+}

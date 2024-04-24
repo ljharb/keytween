@@ -1,0 +1,19 @@
+{
+	"root": true,
+
+	"extends": "@ljharb/eslint-config/node/latest",
+
+	"rules": {
+		"multiline-comment-style": "off",
+	},
+
+	"overrides": [
+		{
+			"files": "./bin.mjs",
+			"rules": {
+				"no-throw-literal": "off",
+				"sort-keys": "off",
+			},
+		},
+	],
+}
